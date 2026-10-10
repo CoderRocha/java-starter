@@ -14,5 +14,13 @@ public class Main {
         System.out.println("Informe a sua idade: ");
         int age = scanner.nextInt();
         System.out.println("Olá, " + name + "! Você tem " + age + " anos!");
+
+        // tipos primitivos
+        byte number = 1; // byte
+        int numero = 1; // int
+        float number2 = 1.4f; // float
+        var number3 = 1.0d; // double
+        char character = 'a'; // char
+        boolean booleano = true; // bool
     }
 }
